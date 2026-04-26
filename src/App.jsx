@@ -276,7 +276,7 @@ export default function MiningAcademyLandingPage() {
           <div className="max-w-3xl">
             <p className="text-sm font-semibold uppercase tracking-[0.3em] text-[#d9b56d]">The Program</p>
             <h2 className="mt-5 text-4xl font-black leading-[0.95] tracking-[-0.05em] md:text-6xl">Most people apply before they understand the mine.</h2>
-            <p className="mt-6 text-lg leading-relaxed text-white/62">Mining is not just driving a big truck. It is safety, communication, production flow, equipment awareness, and decision-making under site rules.</p>
+            <p className="mt-6 text-lg leading-relaxed text-white/62">Mining is not just driving a big truck. It is safety, communication, production flow, equipment awareness, and decision-making based on industry safe work practices and procedures.</p>
           </div>
           <div className="mt-16 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
             {modules.map((module) => (
