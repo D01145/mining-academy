@@ -143,7 +143,6 @@ export default function MiningAcademyLandingPage() {
            <div className="flex h-9 w-9 items-center justify-center rounded-full bg-gradient-to-br from-[#d9b56d] to-[#7d5b2d] text-black">
             <Icon name="hardhat" className="h-5 w-5" />
             </div>
-            <img src="/Logo.png" alt="Mining Academy" className="h-10 w-auto" />
             <span className="font-semibold tracking-wide">Mining Academy</span>
           </button>
 
