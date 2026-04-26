@@ -164,7 +164,7 @@ export default function MiningAcademyLandingPage() {
         <div className="absolute -top-40 -right-40 h-[520px] w-[520px] rounded-full bg-[#b9904b]/20 blur-3xl" />
         <div className="absolute -bottom-40 -left-40 h-[520px] w-[520px] rounded-full bg-[#4d3820]/30 blur-3xl" />
 
-        <div className="relative z-10 mx-auto grid max-w-7xl items-center gap-14 px-6 pb-20 pt-20 lg:grid-cols-2 lg:pt-28">
+        <div className="relative z-10 mx-auto grid max-w-7xl items-start gap-14 px-6 pb-20 pt-20 lg:grid-cols-2 lg:pt-28">
           <div>
             <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-[#d9b56d]/30 bg-[#d9b56d]/10 px-4 py-2 text-sm text-[#e8c77d]">
               <Icon name="lock" className="h-4 w-4" />
@@ -187,7 +187,7 @@ export default function MiningAcademyLandingPage() {
             </div>
           </div>
 
-          <div className="relative">
+          <div className="relative mt-2">
             <div className="absolute inset-0 rounded-[2rem] bg-[#d9b56d]/20 blur-2xl" />
             <div className="relative rounded-[2rem] border border-white/10 bg-[#0d0d0d] p-4 shadow-2xl">
               <div className="overflow-hidden rounded-[1.5rem] border border-white/10 bg-[radial-gradient(circle_at_30%_20%,rgba(217,181,109,0.28),transparent_30%),linear-gradient(140deg,#1a1a1a,#050505)] p-6">
@@ -336,7 +336,7 @@ export default function MiningAcademyLandingPage() {
         <div className="mx-auto grid max-w-7xl items-center gap-16 px-6 lg:grid-cols-[0.95fr_1.05fr]">
           <div className="relative overflow-hidden rounded-[2rem] border border-white/10 bg-[radial-gradient(circle_at_50%_20%,rgba(217,181,109,0.22),transparent_36%),#0d0d0d] p-6 shadow-2xl">
             <div className="absolute right-[-80px] top-[-80px] h-56 w-56 rounded-full bg-[#d9b56d]/10 blur-3xl" />
-            <div className="relative">
+            <div className="relative mt-2">
               <div className="flex items-center justify-between border-b border-white/10 pb-5">
                 <div className="flex items-center gap-3">
                   <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-[#d9b56d]/10 text-[#d9b56d]">
