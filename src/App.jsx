@@ -187,7 +187,7 @@ export default function MiningAcademyLandingPage() {
             <img
               src="/logo.png"
               alt="Mining Academy"
-              className="h-18 md:h-20 w-auto object-contain"
+              className="h-22 md:h-24 w-auto object-contain"
             />
           </button>
 
